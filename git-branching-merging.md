@@ -18,6 +18,6 @@ You should branch when you want to create new features or experiment with someth
 | To switch branches    | `git checkout <branchName>`
 | To merge branches     | Switch into the branch you want to merge stuff into. Then `git merge <branchToMerge>`
 | To push branches to Github    | `git push origin <branchName>`
-| To pull branches from Github  | git fetch
+| To pull branches from Github  | `git fetch`
 | To delete local branches  | Switch to a branch you don’t want to delete. Then `git branch -D <branchToDelete>`
 | To delete branches on Github  | `git push origin :<branchToDelete>`
