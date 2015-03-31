@@ -2,10 +2,10 @@
 At the end of this class, you will be able to recreate this Guardian interactive: ["The mind of a heroin addict: the struggle to get clean and stay sober"](http://www.theguardian.com/society/interactive/2014/feb/11/heroin-addiction-recovery-readers-response-interactive).
 
 ## Outline
-1. Introduction to jQuery and Underscore
-2. Event handlers
-3. Loading data into divs
-4. Combining data into divs with event handlers
+1. [Introduction to jQuery and Underscore](#introduction-to-jquery-and-underscore)
+2. [Event handlers](#event-handlers)
+3. [Loading data into divs](#loading-data-into-divs)
+4. [Combining data into divs with event handlers](#combine-data-into-divs-with-event-handlers)
 
 ## Introduction to jQuery and Underscore
 jQuery and Underscore are javascript libraries (like the Google Charts library, Leaflet or Bootstrap) that have various built-in functions that make writing cross-browser compliant javascript a little easier.
@@ -49,7 +49,7 @@ $('#exampleDiv').on('click', function() {
 - How to Google for built-in events: Google `javascript event <the event you want to look up>`
 
 ## Loading data into divs
-- Let's copy the Guardian's interactive, ["The mind of a heroin addict: the struggle to get clean and stay sober"](http://www.theguardian.com/society/interactive/2014/feb/11/heroin-addiction-recovery-readers-response-interactive)
+- We're going to recreate this Guardian interactive: ["The mind of a heroin addict: the struggle to get clean and stay sober"](http://www.theguardian.com/society/interactive/2014/feb/11/heroin-addiction-recovery-readers-response-interactive)
 - Three steps
 	1. Figure out how to structure your data.
 		- Do you see multiples? Make a list.
