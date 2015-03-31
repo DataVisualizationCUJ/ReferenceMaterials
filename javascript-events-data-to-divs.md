@@ -11,6 +11,7 @@ At the end of this class, you will be able to recreate this Guardian interactive
 jQuery and Underscore are javascript libraries (like the Google Charts library, Leaflet or Bootstrap) that have various built-in functions that make writing cross-browser compliant javascript a little easier.
 - [Download](http://jquery.com/) the library or include the CDN at [https://code.jquery.com/](https://code.jquery.com/). 
 - _jQuery selectors_: `$("#objectID")` or `$(".objectClass")`
+- jQuery selectors allow you to reference and manipulate HTML objects.
 - Good jQuery functions to be aware of:
     - `parent()`
     - `find()`
