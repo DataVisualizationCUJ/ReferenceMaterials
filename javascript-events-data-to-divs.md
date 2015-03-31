@@ -53,7 +53,7 @@ $('#exampleDiv').on('click', function() {
 - Three steps
 	1. Figure out how to structure your data.
 		- Do you see multiples? Make a list.
-		- Does each multiple have attributes? Make each attribute an object.
+		- Does each individual multiple have attributes? Make each attribute a key in an object.
 		- Write your data as JSON.
 	2. Design one example of how your div should look in HTML (this is your "template")
 	3. Write a loop and load in data from your data object in javascript.
