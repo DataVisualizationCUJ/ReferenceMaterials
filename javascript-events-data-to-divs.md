@@ -11,7 +11,7 @@ At the end of this class, you will be able to recreate this Guardian interactive
 jQuery and Underscore are javascript libraries (like the Google Charts library, Leaflet or Bootstrap) that have various built-in functions that make writing cross-browser compliant javascript a little easier.
 - [Download](http://jquery.com/) the library or include the CDN at [https://code.jquery.com/](https://code.jquery.com/). 
 - _jQuery selectors_: `$("#objectID")` or `$(".objectClass")`
-- jQuery selectors allow you to reference and manipulate HTML objects.
+- jQuery selectors allow you to reference and manipulate HTML objects (the DOM - document object model).
 - Good jQuery functions to be aware of:
     - `parent()`
     - `find()`
@@ -58,7 +58,7 @@ $('#exampleDiv').on('click', function() {
 		- Write your data as JSON.
 	2. Design one example of how your div should look in HTML (this is your "template")
 	3. Write a loop and load in data from your data object in javascript.
-- Since we don't have time in class to do this all by hand, I've done it before class so we can skip this step for now. Go to this link to get the rest of this data set.
+- Since we don't have time in class to do this all by hand, I've done it before class so we can skip this step for now. Go to [this link](http://www.columbia.edu/~jsk2220/week9-data-divs/guardianHeroinData.js) to get the rest of this data set.
 - Let's design the template.
 - Put the template in your javascript file.
 - Write a loop and replace values with values from JSON.
