@@ -18,6 +18,7 @@ jQuery and Underscore are javascript libraries (like the Google Charts library, 
     - `hasClass()`
     - `addClass()`
     - `removeClass()`
+- To find other jQuery functions, take a look at jQuery's [documentation](http://api.jquery.com/jquery/) or google something like `jQuery <actionYouWant>`
 
 ## Event Handlers
 - Definitions:
