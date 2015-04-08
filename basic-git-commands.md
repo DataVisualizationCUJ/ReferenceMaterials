@@ -13,3 +13,7 @@
 | Download a copy of a repo stored on GitHub to a new computer   | `git clone <linkToRepo>`
 | Download updates on GitHub into a repo you already have on your machine  | `git pull origin master`
 | Resolving a merge conflict manually (after updating files)  | `git commit -i -m "Commit message here." <filename>`
+
+### If you have an automatic merge and got automatically put into VIM...
+1. To rewrite the commit message, type `i` and then type. To save it and quit, click on `ESC`, `:x`.
+2. If you don't want to rewrite the commit message, just save and quit with `ESC` and `:x`.
